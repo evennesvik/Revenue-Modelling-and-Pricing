@@ -1,21 +1,6 @@
-
-## Revenue Management and Pricing
-
 # Data-driven approach to pricing
 
-*Deadline: 15.04.19*
-
 <br><br><br><br>
-
-# Overview - Executive Summary 
-
-***
-
-list most necessary information
-
-Summarise conclusion! 
-
-
 
 # Introduction
 
@@ -279,7 +264,3 @@ Another notion is the implication of using estimated montly demand as a constant
 We have looked at the price at current state, and potantial profit by price-change given the market dynamics. By this the model was able to conclude wether the host should change the price according to the price recommended by the model. 
 
 We have uncovered that there are a few significant factors in the pricing decision. unfortionatly, the list of amenitites functioned mostly as noise, rather than valueable information in determning the quality of the listing, this may have damaged the results of the model, but a MAE of $\pm 194$ is all things considered very desent, which imples that there deffinitly room for such a price model. A model with an unatural low error would suggest that the market functioned perfectly, or that the model was overfitted. 
-
-
-
-Påloggings-ID44n-6vv-uvf
